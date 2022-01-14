@@ -12,6 +12,10 @@
 * My secondary superpower is Complexity Busting
 
 
+![Anna - Queen of welcoming -o-cat](https://user-images.githubusercontent.com/8700795/149523251-1915ce3e-cb76-4a5f-ab53-8b8542ee5956.png)
+
+
+
 ## Environment
 
 * I’m not a morning person and prefer to have meetings in the afternoon my time so I can use the morning for focused work. I prefer not to have meetings past 6 or 6.30pm my time so I can use the evening hours for personal time or more focused work. I usually block out my Mondays and Fridays for focused working time but am happy to schedule meetings during those days if required
