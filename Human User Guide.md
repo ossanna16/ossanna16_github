@@ -6,6 +6,12 @@
 * Prior to GitHub, I worked at Elastic on the Community Team for 4 years, my focus being EMEA meetups, conferences, diversity, and other user programs
 * I run the [PyLadies London meetup](https://www.meetup.com/PyLadiesLondon/) in my free time
 
+## Superpowers
+
+* My primary superpower is Decisiveness
+* My secondary superpower is Complexity Busting
+
+
 ## Environment
 
 * I’m not a morning person and prefer to have meetings in the afternoon my time so I can use the morning for focused work. I prefer not to have meetings past 6 or 6.30pm my time so I can use the evening hours for personal time or more focused work. I usually block out my Mondays and Fridays for focused working time but am happy to schedule meetings during those days if required
