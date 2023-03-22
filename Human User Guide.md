@@ -6,6 +6,11 @@
 * Prior to GitHub, I worked at Elastic on the Community Team for 4 years, my focus being EMEA meetups, conferences, diversity, and other user programs
 * I run the [PyLadies London meetup](https://www.meetup.com/PyLadiesLondon/) in my free time
 
+
+## What I do at GitHub
+
+I increase GitHub Enterprise Customer awareness of the GitHub Community on Discussions. This work focuses on improved customer experience and loyalty, scaled customer success, engagement with other customers, and encouraging product feedback. I work with the CSM, CSA, CX, and Biz Ops teams within the Customer Outcomes organization in Customer Success.
+
 ## Superpowers
 
 * My primary superpower is Decisiveness
